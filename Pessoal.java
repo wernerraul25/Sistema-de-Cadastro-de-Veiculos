@@ -1,5 +1,3 @@
-package Trabalho3LRF;
-
 public class Pessoal extends Veiculos {
     private int numPassageiros;
     private int numPortas;

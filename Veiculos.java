@@ -1,5 +1,3 @@
-package Trabalho3LRF;
-
 public class Veiculos {
     private String placa;
     private String marca;

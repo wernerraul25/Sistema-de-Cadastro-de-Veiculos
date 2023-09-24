@@ -1,5 +1,3 @@
-package Trabalho3LRF;
-
 public class Carga extends Veiculos {
     private double maxKg;
 
